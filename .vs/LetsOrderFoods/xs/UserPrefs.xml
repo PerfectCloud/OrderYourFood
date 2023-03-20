@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{A5CC2C21-A674-4084-B4A8-C9961C385363}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LetsOrderFoods/Startup.cs">
+    <Files>
+      <File FileName="../../../../usr/local/share/dotnet/sdk/7.0.201/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.EolTargetFrameworks.targets" Line="1" Column="1" />
+      <File FileName="LetsOrderFoods/Data/ApplicationDbContext.cs" Line="22" Column="10" />
+      <File FileName="LetsOrderFoods/appsettings.json" Line="20" Column="1" />
+      <File FileName="LetsOrderFoods/Startup.cs" Line="1" Column="1" />
+      <File FileName="LetsOrderFoods/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LetsOrderFoods" expanded="True">
+            <Node name="LetsOrderFoods" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LetsOrderFoods PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
